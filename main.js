@@ -4,7 +4,7 @@
 //var button = document.getElementsByTagName('button');
 
 //function slideToggle () {
-    //section.classList.add('hide');
+    //section.classList.toggle('hide');
 //};
 
 //for (i=0; i < button.length; i++) {
