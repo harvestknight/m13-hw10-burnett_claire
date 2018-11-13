@@ -4,8 +4,7 @@
 //var button = document.getElementsByTagName('button');
 
 //function slideToggle () {
-    //section[0].classList.toggle('hide');
-    
+    //section[0].classList.toggle('hide');  
 //};
 
 //for (i=0; i < button.length; i++) {
@@ -13,8 +12,10 @@
 //};
 
 
+
+
 //jQuery functionality will go here. Make sure to iclude the document.ready function.
 
 $(document).ready(function(){
-    
+    $('button').click()
 });
