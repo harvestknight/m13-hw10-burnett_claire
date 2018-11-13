@@ -3,5 +3,8 @@
 var section = document.getElementsByTagName('section');
 var button = document.getElementsByTagName('button');
 
+function slideToggle () {
+    section.classList.add('hide');
+};
 
 //jQuery functionality will go here. Make sure to iclude the document.ready function.
